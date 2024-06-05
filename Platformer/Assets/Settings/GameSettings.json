@@ -1,0 +1,14 @@
+{
+    "jumpForce": 15.0,
+    "maxNumberOfJumps": 2,
+    "jumpHeight": 0.30000001192092898,
+    "speed": 10.0,
+    "fallForce": 0.75,
+    "maxProjectileDuration": 2.0,
+    "projectileSpeed": 2.0,
+    "fireRate": 0.25,
+    "volume": 0.30000001192092898,
+    "difficulty": 1.0,
+    "enemiesHealthbar": false,
+    "playerHealthBar": false
+}
